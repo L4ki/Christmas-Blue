@@ -5,3 +5,8 @@ Cahgelog: 07.12.2019.
 ---------------------
 
 Redesigned Theme
+
+Changelog: 25.11.2020.
+-----------------------
+
+Redesigned Theme
