@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg881"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="notification.svg">
   <defs
      id="defs875" />
@@ -32,10 +30,11 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata878">
     <rdf:RDF>
@@ -126,25 +125,25 @@
        id="expander-bottom"
        d="m 191.82493,709.24546 2,-2 2,2 z"
        class="ColorScheme-Text"
-       style="fill:#8f267c;fill-opacity:1" />
+       style="fill:#2e75bc;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="expander-top"
        d="m 191.82493,703.24546 2,2 2,-2 z"
        class="ColorScheme-Text"
-       style="fill:#8f267c;fill-opacity:1" />
+       style="fill:#2e75bc;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="expander-right"
        d="m 196.82493,704.24546 -2,2 2,2 z"
        class="ColorScheme-Text"
-       style="fill:#8f267c;fill-opacity:1" />
+       style="fill:#2e75bc;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="expander-left"
        d="m 190.82493,704.24546 2,2 -2,2 z"
        class="ColorScheme-Text"
-       style="fill:#8f267c;fill-opacity:1" />
+       style="fill:#2e75bc;fill-opacity:1" />
     <g
        id="notification-disabled"
        transform="translate(208.82493,645.24546)">

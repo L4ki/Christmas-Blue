@@ -19,15 +19,15 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=40,51,59
+BackgroundAlternate=30,38,44
 BackgroundNormal=30,38,44
-DecorationFocus=46,117,188
+DecorationFocus=55,143,226
 DecorationHover=46,117,188
 ForegroundActive=61,174,233
 ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
+ForegroundNeutral=0,204,204
 ForegroundNormal=161,180,186
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
@@ -48,63 +48,63 @@ ForegroundVisited=61,174,230
 
 [Colors:Selection]
 BackgroundAlternate=29,153,243
-BackgroundNormal=46,117,188
-DecorationFocus=46,117,188
+BackgroundNormal=53,136,218
+DecorationFocus=55,143,226
 DecorationHover=46,117,188
 ForegroundActive=252,252,252
 ForegroundInactive=161,180,185
 ForegroundLink=253,188,75
 ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
+ForegroundNeutral=0,204,204
 ForegroundNormal=17,21,25
 ForegroundPositive=39,174,96
 ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=40,51,59
+BackgroundAlternate=30,38,44
 BackgroundNormal=30,38,44
-DecorationFocus=46,117,188
+DecorationFocus=55,143,226
 DecorationHover=46,117,188
 ForegroundActive=61,174,233
 ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
+ForegroundNeutral=0,204,204
 ForegroundNormal=161,180,186
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:View]
-BackgroundAlternate=40,51,59
-BackgroundNormal=30,38,44
-DecorationFocus=46,117,188
+BackgroundAlternate=30,38,44
+BackgroundNormal=26,33,38
+DecorationFocus=55,143,226
 DecorationHover=46,117,188
 ForegroundActive=61,174,233
 ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
+ForegroundNeutral=0,204,204
 ForegroundNormal=161,180,186
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:Window]
-BackgroundAlternate=40,51,59
+BackgroundAlternate=30,38,44
 BackgroundNormal=30,38,44
-DecorationFocus=46,117,188
+DecorationFocus=55,143,226
 DecorationHover=46,117,188
 ForegroundActive=61,174,233
 ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
-ForegroundNormal=161,180,186
+ForegroundNeutral=0,204,204
+ForegroundNormal=179,201,207
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
 ColorScheme=Breeze-Blue-Dark
-Name=Christmas-Blue
+Name=Breeze-Blue-Dark
 shadeSortColumn=true
 
 [KDE]

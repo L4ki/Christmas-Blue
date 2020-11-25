@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    height="156"
    id="svg2318"
    sodipodi:docname="bar_meter_vertical.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,16 +24,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1025"
      id="namedview76"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="34.607504"
-     inkscape:cy="65.291579"
+     inkscape:zoom="2.828427"
+     inkscape:cx="61.846652"
+     inkscape:cy="97.947324"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2318" />
+     inkscape:current-layer="svg2318"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata4420">
     <rdf:RDF>
@@ -98,21 +97,21 @@
      y="-41"
      transform="matrix(0,1,-1,0,0,0)"
      id="background"
-     style="opacity:0.19101126;fill:#cecece;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#cecece;fill-opacity:1;stroke:none" />
   <rect
      width="65"
      height="12"
      x="0"
      y="0"
      id="label0"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.01" />
   <rect
      width="65"
      height="12"
      x="0"
      y="144"
      id="label1"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.01" />
   <rect
      width="65"
      height="12"
@@ -120,7 +119,7 @@
      y="-19.605326"
      transform="matrix(0,1,-1,0,0,0)"
      id="label2"
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.01" />
   <rect
      width="3.4471455"
      height="3.5355339"

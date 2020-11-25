@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,9 +12,9 @@
    height="98"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="scrollbar.svg"
-   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0">
   <sodipodi:namedview
      id="base"
@@ -27,13 +25,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="6.0234376"
      inkscape:cx="39.180159"
-     inkscape:cy="29.478169"
+     inkscape:cy="56.041074"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -42,7 +40,8 @@
      inkscape:guide-bbox="true"
      objecttolerance="9"
      gridtolerance="13"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        visible="true"
        enabled="true"
@@ -298,7 +297,7 @@
        height="4.375"
        width="5"
        id="hint-stretch-borders"
-       style="opacity:0.875;fill:#2e75bc;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.8;fill:#2e75bc;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g3922"
        style="display:none"
@@ -580,13 +579,13 @@
        id="text4793"
        y="35.330601"
        x="-80.222275"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.012;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;opacity:0.012;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="35.330601"
          x="-80.222275"
          id="tspan4795"
          sodipodi:role="line"
-         style="font-size:14px;line-height:1.25;"> </tspan></text>
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <path
        id="path2774"
        d="M 59,37 L 59,50 L 72,50 L 72,37 L 59,37 z"
