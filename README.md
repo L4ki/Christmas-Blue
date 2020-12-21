@@ -10,3 +10,7 @@ Changelog: 25.11.2020.
 -----------------------
 
 Redesigned Theme
+
+Changelog: 21.12.2020.
+----------------------
+Fixed icon start.svg
